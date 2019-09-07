@@ -1,28 +1,44 @@
+// theme colors 7075ff, ff7575
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+  <v-app>
+    <v-content>
+      <Home />
+      <About />
+      <!-- <Skills /> -->
+      <Contact />
+    </v-content>
+      
+  </v-app>
 </template>
-
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
+import Home from './components/Home';
+import About from './components/About';
+import Contact from './components/Contact';
+import config from '../src/conf/data.json';
 export default {
-  name: 'app',
+  name: 'App',
   components: {
-    HelloWorld
-  }
-}
+    Home,
+    About,
+    Contact
+  },
+  data() {
+    return {
+      config: config
+    }
+  },
+};
 </script>
-
 <style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+
+  ::selection {
+    color: #fff!important;
+    background: #7e61ff!important;
+  }
+
+  >>>.v-content__wrap{
+    margin: 0;
+    padding: 0;
+    min-height: 0;
+  }
 </style>

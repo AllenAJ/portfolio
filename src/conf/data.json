@@ -1,0 +1,56 @@
+{
+    "name": "Dewansh Rawat",
+    "nameStyle": "color: #7075ff;",
+    "aboutTitle": "About Me",
+    "aboutDescription": "My name is Dewansh Rawat. I'm a tech enthusiast, a frontend designer and a backend developer to be specific. I love working on new exciting projects. I am currently working on ML related applications. Interested in working together? Just drop me a line.",
+    "hashtags": [
+        "ml", "ai", "dl", "webdev", "devops", "web", "flutter", "mobile"
+    ],
+    "hashtagStyle": "color: #7075ff;",
+    "tagline": "The fire in my heart it'll never die",
+    "socials": [
+        {
+            "name": "Facebook",
+            "icon": "fab fa-facebook",
+            "link": "https://facebook.com/dewanshrawat15"
+        },
+        {
+            "name": "Instagram",
+            "icon": "fab fa-instagram",
+            "link": "https://instagram.com/dewanshrawat15"
+        },
+        {
+            "name": "Twitter",
+            "icon": "fab fa-twitter",
+            "link": "https://twitter.com/dewanshrawat15"
+        },
+        {
+            "name": "Github",
+            "icon": "fab fa-github",
+            "link": "https://github.com/dewanshrawat15"
+        }
+    ],
+    "aboutButtonColors": "#7075ff",
+    "aboutButtonStyle": "color: #fff; height: 42px; margin-left: 20px; margin-right: 20px;",
+    "aboutButtons": [
+        {
+            "title": "My Resume",
+            "icon": "fas fa-download",
+            "link": "https://dewanshrawat.me/Resume.pdf"
+        },
+        {
+            "title": "My Github",
+            "icon": "fab fa-github",
+            "link": "https://github.com/dewanshrawat15"
+        }
+    ],
+    "portfolioTitle": "Portfolio",
+    "portfolioDescription": "From designing websites to developing webapps, from writing programs in C++ to writing scripts in Python, I do everything.",
+    "portfolioItem": [
+        {}, {}
+    ],
+    "contactTitle": "Thank You",
+    "contactTitleStyle": "color: #fff",
+    "author": "Dewansh Rawat ©",
+    "authorStyle": "color: #fff; font-weight: 300;"
+}

@@ -1,12 +1,12 @@
 {
     "name": "Dewansh Rawat",
-    "nameStyle": "color: #e91e63;",
+    "nameStyle": "color: #FB8C00;",
     "aboutTitle": "About Me",
     "aboutDescription": "My name is Dewansh Rawat. I'm a tech enthusiast, a frontend designer and a backend developer to be specific. I love working on new exciting projects. I am currently working on ML related applications. Interested in working together? Just drop me a line.",
     "hashtags": [
         "ml", "ai", "dl", "webdev", "devops", "web", "flutter", "mobile"
     ],
-    "hashtagStyle": "color: #e91e63;",
+    "hashtagStyle": "color: #FB8C00;",
     "tagline": "The fire in my heart it'll never die",
     "socials": [
         {
@@ -35,7 +35,7 @@
             "link": "https://github.com/dewanshrawat15"
         }
     ],
-    "aboutButtonColors": "#e91e63",
+    "aboutButtonColors": "#FB8C00",
     "aboutButtonStyle": "color: #fff; height: 42px; margin-left: 20px; margin-right: 20px;",
     "aboutButtons": [
         {

@@ -25,7 +25,7 @@
     } */
 
     .contact{
-        background: #FB8C00;
+        background: #e91e63;
         padding-top: 40px;
         padding-bottom: 40px;
     }
